@@ -1,0 +1,2 @@
+model_summary,Prefix,Test Loss,Test Accuracy,Training Start Time,Training End Time,Training Plot Path,Confusion Matrix Path
+,20231216_025020trail_VGG16,2.4554269313812256,0.6363636255264282,1702691421.0318,1702691434.9464881,result/plot/20231216_025020trail_VGG16_training_history.png,result/conf_matrix/20231216_025020trail_VGG16_conf_matrix.png

@@ -1,0 +1,17 @@
+Start Time: 2023-12-17 14:08:52
+Finish Time: 2023-12-17 14:09:06
+Execution Time: 14.62 seconds
+Test Accuracy: 81.82%
+Confusion Matrix:
+[[ 8  3]
+ [ 1 10]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.89      0.73      0.80        11
+           1       0.77      0.91      0.83        11
+
+    accuracy                           0.82        22
+   macro avg       0.83      0.82      0.82        22
+weighted avg       0.83      0.82      0.82        22
+

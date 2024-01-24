@@ -1,0 +1,8 @@
+Start Time: 2023-12-16 02:49:19
+Finish Time: 2023-12-16 02:49:33
+Execution Time: 14.16 seconds
+Test Accuracy: 68.18%
+Confusion Matrix:
+None
+Classification Report:
+None
